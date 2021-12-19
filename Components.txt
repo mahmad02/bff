@@ -1,0 +1,24 @@
+DIGIKEY:
+
+	PART NAME
+	PART NUMBER
+
+	BATTERY LITHIUM 3.7V 2.6AH
+	1568-1488-ND
+
+	LED XLAMP COOL WHITE 6500K 4SMD
+	MLEAWT-A1-0000-0003E1CT-ND
+
+	SWITCH SLIDE SPST 4A 125V
+	CKN11875-ND
+
+	RES 1 OHM 1% 1/4W 1206
+	RMCF1206FT1R00CT-ND
+
+AMAZON:
+
+	PART NAME
+	PART LINK
+
+	HiLetgo 10pcs 5V 1A 18650 Lithium Battery Charging Board TP4056 Lithium Battery Charging Board Micro USB Charge Module With Protect
+	https://www.amazon.com/HiLetgo-Lithium-Battery-Charging-Protect/dp/B00LTQU2RK
