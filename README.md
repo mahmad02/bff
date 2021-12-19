@@ -3,19 +3,9 @@ Big Freaking Flashlight
 
 This is a project where i make a flashlight. 
 
-Goals:
-
-  -Build something with everyday usability
-  
-  -Gain CAD/ Mechanical Experience
-  
-  -Battery/ power analysis and management
-  
-  -Fun
-
 Files:
 
-  -Tutorial.pdf: instructions on steps taken with detail
+  -Tutorial: instructions on steps taken with detail
   
   -Components.txt: list of all components used
   
